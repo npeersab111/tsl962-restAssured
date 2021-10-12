@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5794" started-at="2021-10-11T06:47:10Z" finished-at="2021-10-11T06:47:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5794" started-at="2021-10-11T06:47:10Z" finished-at="2021-10-11T06:47:16Z">
+      <class name="Day2.Github">
+        <test-method status="PASS" signature="createRepository()[pri:0, instance:Day2.Github@4df50bcc]" name="createRepository" duration-ms="4189" started-at="2021-10-11T06:47:10Z" finished-at="2021-10-11T06:47:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createRepository -->
+        <test-method status="PASS" signature="gettingAllrepository()[pri:0, instance:Day2.Github@4df50bcc]" name="gettingAllrepository" duration-ms="1555" started-at="2021-10-11T06:47:14Z" finished-at="2021-10-11T06:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettingAllrepository -->
+      </class> <!-- Day2.Github -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
